@@ -8,7 +8,9 @@ Lua is designed, implemented, and maintained by a team at PUC-Rio, the Pontifica
 
 💡 It's easier to learn than python and it only have 21 keywords that you easily memorize.
 
-[Official documentation](https://www.lua.org/docs.html)
+# Technologies
+
+- [Lua](https://www.lua.org/docs.html)
 
 # Setup
 
